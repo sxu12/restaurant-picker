@@ -1,4 +1,4 @@
-const restaurants = ["餐厅A", "餐厅B", "餐厅C", "餐厅D", "餐厅E", "餐厅F"];
+const restaurants = ["Taco Stand", "十秒米线", "意大利菜", "炸鸡", "Poke", "In N Out"];
 const wheelCanvas = document.getElementById("wheelCanvas");
 const ctx = wheelCanvas.getContext("2d");
 const spinButton = document.getElementById("spinButton");
